@@ -14,3 +14,4 @@ Windspeed.value 0.60
 SunSouth.value 0
 SunWest.value 0
 SunEast.value 0
+
