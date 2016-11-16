@@ -18,7 +18,7 @@
 //SunWest.value 0
 //SunEast.value 0
 
-#define DEBUG // output via hardware serial bus for debugging purposes, can only be used on arduinos with two hardware serial bus (e.g. arduino mega)
+//#define DEBUG // output via hardware serial bus for debugging purposes, can only be used on arduinos with two hardware serial bus (e.g. arduino mega)
 
 #ifdef DEBUG
   #define DEBUG_PRINT(x)  Serial.print (x)
