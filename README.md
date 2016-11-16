@@ -3,15 +3,15 @@ Arduino webserver. Displays measurement results from "Eltako Multisensor MS" (ht
 
 Sample output:
 
-RawData.value W+02.5000000J00000.6J?151515151515?1841
-CheckSum.value 1841
-RecvSum.value 1841
-Temperature.value 2.50
-Daylight.value 0
-Dawn.value 1
-Rain.value 1
-Windspeed.value 0.60
-SunSouth.value 0
-SunWest.value 0
-SunEast.value 0
+RawData.value W+02.5000000J00000.6J?151515151515?1841<br>
+CheckSum.value 1841<br>
+RecvSum.value 1841<br>
+Temperature.value 2.50<br>
+Daylight.value 0<br>
+Dawn.value 1<br>
+Rain.value 1<br>
+Windspeed.value 0.60<br>
+SunSouth.value 0<br>
+SunWest.value 0<br>
+SunEast.value 0<br>
 
